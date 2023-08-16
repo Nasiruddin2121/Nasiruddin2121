@@ -23,7 +23,7 @@
 
 - 👯 I’m looking to collaborate on [Ashraf Jute](https://ashrafjute.com/)
 
-- 🤝 I’m looking for help with [Hospital Management Systems](113.11.120.202:35899)
+- 🤝 I’m looking for help with [Hospital Management Systems](http://113.11.120.202:35899)
 
 - 👨‍💻 All of my projects are available at [Nasiruddin2121](Nasiruddin2121)
 
